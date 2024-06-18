@@ -1,4 +1,4 @@
-name: create a comment on a issue
+name: create a comment on a issues
 'on':
   issue:
     types:
